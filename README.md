@@ -29,49 +29,92 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 
 ---
 
-##  🚀 Key Projects
+## 🚀 Featured Projects
 
-## 1️⃣ Bus Management System
-- **Tech Stack:** C++  
-- **Features:** Admin, company, and passenger login; real-time bus details; ticket booking with refund logic; DSA concepts like linked lists, stacks, and queues.  
-- **Outcome:** A fully functional console-based system demonstrating data structures and algorithms in practice.
+### 💊 Pharmacy Management System
+A pharmacy system built to manage medicine inventory, sales, and prescriptions efficiently with real-time updates.
 
-##  2️⃣ Sales & Installment System
-- **Tech Stack:** Laravel 11, Livewire 3, MySQL  
-- **Features:**  
-  - Dashboard with sales and installment summaries  
-  - Customer management with detailed profiles and purchase history  
-  - Product inventory and stock tracking  
-  - Reports and analytics with charts (LivewireCharts/ApexCharts)  
-- **Outcome:** A comprehensive web application managing end-to-end sales operations.
+**Tech Stack:**
+- Laravel Livewire
+- PHP
+- MySQL
+  
 
-##  3️⃣ Shop Product Inventory System
-- **Tech Stack:** Laravel, Livewire  
-- **Features:**  
-  - Warehouse & shop stock management  
-  - Real-time quantity updates  
-  - Inventory addition & deduction logic  
-- **Outcome:** Improved inventory management efficiency for small businesses.
-
+**Highlights:**
+- Inventory tracking with expiry management  
+- Billing and sales system  
+- Customer & prescription records  
+- Low-stock alerts  
+- Real-time UI updates  
 
 ---
 
-## 🌐 Cloud-Native & CNCF Exploration
-- Experimenting with **Docker containers** to simplify deployments.  
-- Learning **Kubernetes** for orchestration of scalable applications.  
-- Exploring CNCF projects like **Prometheus, Envoy, and Helm** to understand modern cloud-native architecture.  
-- Understanding microservices and containerized app best practices.
+### 📦 Inventory Control System
+A system designed to help businesses manage stock, suppliers, and product flow efficiently.
+
+**Tech Stack:**
+- Laravel Livewire
+- PHP
+- MySQL
+
+
+**Highlights:**
+- Real-time stock management  
+- Supplier and purchase tracking  
+- Product categorization  
+- Reporting and analytics  
+- Stock alerts system  
 
 ---
+
+### 🎨 Skill Sprint UI
+A modern and responsive UI project designed for learning platforms and dashboard-based applications.
+
+**Tech Stack:**
+- Vue.js
+- Tailwind CSS
+
+**Highlights:**
+- Responsive design for all devices  
+- Clean and modern UI components  
+- Reusable layout structure  
+- Smooth navigation experience  
+- Optimized for learning platforms  
+
+---
+
+🎟️ Ticket Booking System
+
+A console-based ticket booking system developed in C++, built using core Programming Fundamentals (PF) and Data Structures & Algorithms (DSA) concepts. It focuses on efficient ticket management using structured logic and dynamic data handling.
+
+Tech Stack:
+
+C++
+Programming Fundamentals (PF)
+Data Structures & Algorithms (DSA)
+
+Data Structures Used:
+
+Arrays
+Linked Lists
+
+Highlights:
+
+Ticket booking and cancellation system
+Seat availability management using arrays
+Dynamic booking record handling using linked lists
+Efficient and structured console-based interface
+Strong focus on DSA problem-solving and logic building  
+
+---
+
 
 ## 📫 Connect with Me
 
-- [LinkedIn](linkedin.com/in/mohammad-adeel-883518353/) 
-- [Email](adeelalpha32@gmail.com)  
+- GitHub: https://github.com/Adeel-fullstack/Adeel-fullstack 
+- LinkedIn: https://www.linkedin.com/in/mohammad-adeel-883518353/
+- Email: adeellaravel12@gmail.com  
 
 ---
 
-## ⚡ Fun Facts
-- Open-source contributor and enthusiast 🌐  
-- Love exploring **new technologies** and building **practical projects**  
-- Coffee lover ☕ and always up for a tech challenge
+⭐ *Thanks for visiting my profile!*
